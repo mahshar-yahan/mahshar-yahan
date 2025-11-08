@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Solving Complex Math using LLMs**
 
-- 🌱 I’m currently learning **LLMs architecure and**
+- 🌱 I’m currently learning **LLMs architecure with reasoning capabilities**
 
 - 👯 I’m looking to collaborate on **LLMs, NLP and CV Projects**
 
