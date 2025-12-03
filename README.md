@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **LLMs, NLP and CV Projects**
 
-- 👨‍💻 All of my projects are available at [https://mahshar-yahan.github.io/yahan.github.io/](https://mahshar-yahan.github.io)
+- 👨‍💻 All of my projects are available at [https://mahshar-yahan.github.io/](https://mahshar-yahan.github.io)
 
 - 📫 How to reach me **yahanmahshar1@gmail.com, mahshar@uttara.ac.bd**
 
