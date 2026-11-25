@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahshar-yahan.github.io/](https://mahshar-yahan.github.io)
 
-- 📫 How to reach me **yahanmahshar1@gmail.com, mahshar@uttara.ac.bd**
+- 📫 How to reach me **yahan.cuet@gmail.com, yahanmahshar1@gmail.com, mahshar@uttara.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
